@@ -1,0 +1,12 @@
+C:\Users\kolev\source\repos\Methods-sguare\Methods-sguare\bin\Debug\netcoreapp2.2\Methods-sguare.deps.json
+C:\Users\kolev\source\repos\Methods-sguare\Methods-sguare\bin\Debug\netcoreapp2.2\Methods-sguare.runtimeconfig.json
+C:\Users\kolev\source\repos\Methods-sguare\Methods-sguare\bin\Debug\netcoreapp2.2\Methods-sguare.runtimeconfig.dev.json
+C:\Users\kolev\source\repos\Methods-sguare\Methods-sguare\bin\Debug\netcoreapp2.2\Methods-sguare.dll
+C:\Users\kolev\source\repos\Methods-sguare\Methods-sguare\bin\Debug\netcoreapp2.2\Methods-sguare.pdb
+C:\Users\kolev\source\repos\Methods-sguare\Methods-sguare\obj\Debug\netcoreapp2.2\Methods-sguare.AssemblyInfoInputs.cache
+C:\Users\kolev\source\repos\Methods-sguare\Methods-sguare\obj\Debug\netcoreapp2.2\Methods-sguare.AssemblyInfo.cs
+C:\Users\kolev\source\repos\Methods-sguare\Methods-sguare\obj\Debug\netcoreapp2.2\Methods-sguare.dll
+C:\Users\kolev\source\repos\Methods-sguare\Methods-sguare\obj\Debug\netcoreapp2.2\Methods-sguare.pdb
+C:\Users\kolev\source\repos\Methods-sguare\Methods-sguare\obj\Debug\netcoreapp2.2\Methods-sguare.csproj.AssemblyReference.cache
+C:\Users\kolev\source\repos\Methods-sguare\Methods-sguare\obj\Debug\netcoreapp2.2\Methods-sguare.csproj.CoreCompileInputs.cache
+C:\Users\kolev\source\repos\Methods-sguare\Methods-sguare\obj\Debug\netcoreapp2.2\Methods-sguare.genruntimeconfig.cache
